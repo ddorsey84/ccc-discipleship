@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "meetings": [
     { "id": 1, "link": "1" },
     { "id": 2, "link": "2" },
     { "id": 3, "link": "3" }
