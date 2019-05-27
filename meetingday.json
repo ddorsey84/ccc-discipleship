@@ -1,1 +1,12 @@
-
+  meetingdays: [
+    {"dayid": "1", "meetingday": 1, "dayText": "Day 1", "url": ""},
+    {"dayid": "2", "meetingday": 1, "dayText": "Day 2", "url": ""},
+    {"dayid": "3", "meetingday": 1, "dayText": "Day 3", "url": "" },
+    {"dayid": "4", "meetingday": 1, "dayText": "Day 4", "url": "" },
+    {"dayid": "5", "meetingday": 1, "dayText": "Day 5", "url": "" },
+    {"dayid": "6", "meetingday": 1, "dayText": "Day 6", "url": "" },
+    {"dayid": "7", "meetingday": 1, "dayText": "Day 7", "url": "" },
+    {"dayid": "8", "meetingday": 1, "dayText": "Day 8", "url": "" },
+    {"dayid": "9", "meetingday": 1, "dayText": "Day 9", "url": "" },
+    {"dayid": "10","meetingday": 1, "dayText": "Day 10", "url": "" },            
+  ]
