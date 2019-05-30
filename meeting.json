@@ -1,4 +1,5 @@
-{    "meetings": [
+{
+    "meetings": [
     {"meetingid": "2", "meetingText": "Meeting 2", "description": ""},
     {"meetingid": "3", "meetingText": "Meeting 3", "description": ""},
     {"meetingid": "4", "meetingText": "Meeting 4", "description": ""},
