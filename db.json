@@ -1,7 +1,904 @@
 {
   "meetings": [
-    { "id": 1, "link": "1" },
-    { "id": 2, "link": "2" },
-    { "id": 3, "link": "3" }
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 1
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": "http://docs.google.com/document/d/1by_I2t4_SgNL8YksiLocN8rQG3CMRPKSTiP58Bargy8/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 2,
+          "url": "http://docs.google.com/document/d/17RFP0LITMxiCqQbpZxR16gSPciPfkRIykW_G_Qz2kYw/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 3,
+          "url": "http://docs.google.com/document/d/1FbWGwJ94jKSJ5Ih__wD-DqHWb0fFbFJ4S2bMuyf-HQU/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 4,
+          "url": "http://docs.google.com/document/d/13ew3uyVEf-6GTZCPAxvY_eV-AkyupSXiqKVlySJHmAo/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 5,
+          "url": "http://docs.google.com/document/d/1_GBt-7T-Fg3vANx0lhzqA8lbHOUf4wRi6MS6NrNBdR4/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 6,
+          "url": "http://docs.google.com/document/d/1UNgI91mhjaMFtqJpOsHtvb2jucpbs84Fmca6covnbfc/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 7,
+          "url": "http://docs.google.com/document/d/1Zw5GGRWLHZINRupQFOj8-ie8HpMDVBL9kGaWxG8XTU0/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 8,
+          "url": "http://docs.google.com/document/d/1MErUGgZwQ1UwIaoy7Tm0NB331E1-K-bdlu2yWolvuZM/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 9,
+          "url": "http://docs.google.com/document/d/14UXUlkbosscbxysZVdHdju1nrj4IJyw5ytQaqC3kXmA/edit?usp=sharing_eil&ts=5cdddf30"
+        },
+        {
+          "meetingDayId": 10,
+          "url": "http://docs.google.com/document/d/1SiFsItCnhfIIzcOQ_ltDe1dDtlU_mWgGCQZagzfCIDc/edit?usp=sharing_eil&ts=5cdddf30"
+        }
+      ],
+      "meetingId": 2
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 3
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 4
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 5
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 6
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 7
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 8
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 9
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 10
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 11
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 12
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 13
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 14
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 15
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 16
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 17
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 18
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 19
+    },
+    {
+      "meetingDays": [
+        {
+          "meetingDayId": 1,
+          "url": ""
+        },
+        {
+          "meetingDayId": 2,
+          "url": ""
+        },
+        {
+          "meetingDayId": 3,
+          "url": ""
+        },
+        {
+          "meetingDayId": 4,
+          "url": ""
+        },
+        {
+          "meetingDayId": 5,
+          "url": ""
+        },
+        {
+          "meetingDayId": 6,
+          "url": ""
+        },
+        {
+          "meetingDayId": 7,
+          "url": ""
+        },
+        {
+          "meetingDayId": 8,
+          "url": ""
+        },
+        {
+          "meetingDayId": 9,
+          "url": ""
+        },
+        {
+          "meetingDayId": 10,
+          "url": ""
+        }
+      ],
+      "meetingId": 20
+    }	
   ]
 }
