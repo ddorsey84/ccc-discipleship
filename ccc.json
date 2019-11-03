@@ -1754,51 +1754,6 @@
         }
       ],
       "rhythmId": 39
-    },
-    {
-      "rhythmDays": [
-        {
-          "url": "https://docs.google.com/document/d/1lDLPv4LdMOlodea9w3N54uWvdu2Hb_1VkukpIAxS1fk/edit?usp=sharing",
-          "rhythmDayId": 1
-        },
-        {
-          "url": "https://docs.google.com/document/d/1yc-qKZsFbB1BULMSlZwC9f1qRQQWM6Uvco8mSePXrnM/edit?usp=sharing",
-          "rhythmDayId": 2
-        },
-        {
-          "url": "https://docs.google.com/document/d/1ZEgAKlyzIhS-jxNJypsYzlQJTXCXwvXHe9_WFpgfFZ8/edit?usp=sharing",
-          "rhythmDayId": 3
-        },
-        {
-          "url": "https://docs.google.com/document/d/1nYDCIKWvc0vZkUbd7kifOJCYLV4ZmufrydoOp9mWI0I/edit?usp=sharing",
-          "rhythmDayId": 4
-        },
-        {
-          "url": "https://docs.google.com/document/d/1e9MnC8pklybHm_DrR4QKihZ_cr6CvkkQUiA_iymZq9I/edit?usp=sharing",
-          "rhythmDayId": 5
-        },
-        {
-          "url": "https://docs.google.com/document/d/1E5EDGUDllUC8DrXWerVlLfCFR1LUSe82Oz-k5zf6j0w/edit?usp=sharing",
-          "rhythmDayId": 6
-        },
-        {
-          "url": "https://docs.google.com/document/d/1th82ggPjD5oh8dSFnLNE9Cop3kv2Xou8o7hcMshKGT4/edit?usp=sharing",
-          "rhythmDayId": 7
-        },
-        {
-          "url": "https://docs.google.com/document/d/1Gz_p7-eGyc50PiNkY516WMZyHRxvle7K6O_WIgvQcUQ/edit?usp=sharing",
-          "rhythmDayId": 8
-        },
-        {
-          "url": "https://docs.google.com/document/d/1lodLJhGePwwEdd4IQD7Q1rdFGkF8xX8iPXPVCpne_1w/edit?usp=sharing",
-          "rhythmDayId": 9
-        },
-        {
-          "url": "https://docs.google.com/document/d/1TrIbWL0JtnwL1Y16bnUGXbhljWWkO9LZOK6ucqGoh1k/edit?usp=sharing",
-          "rhythmDayId": 10
-        }
-      ],
-      "rhythmId": 40
     }
   ]
 }
